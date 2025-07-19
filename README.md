@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinhtrung0706" alt="dinhtrung0706" /></a> </p>
 
+- 🔭 I’m currently working on [Data4ESGenius-System](https://github.com/TherNgyn/Data4ESGenius-System)
+
+- 👨‍💻 All of my projects are available at [https://github.com/dinhtrung0706](https://github.com/dinhtrung0706)
+
 - 📫 How to reach me **dinhductrung0706@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
