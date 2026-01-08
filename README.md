@@ -34,7 +34,7 @@
 
 <!--Languages and Tools Section-->
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2>
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="display: flex; align-items: stretch; gap: 20px;">
   <div>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
