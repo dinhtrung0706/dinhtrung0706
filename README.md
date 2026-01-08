@@ -47,11 +47,24 @@
   <li>Exploring MCPs and Docker techniques.</li>
   <li>Improving my skills in cloud computing with AWS and Azure.</li>
 </ul>
-  
+
 <br />
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+---
 
 
 <!--Trophies Section-->   
