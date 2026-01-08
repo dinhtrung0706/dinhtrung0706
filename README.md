@@ -32,37 +32,25 @@
 ---
 
 
-<!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-<br />
-
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring MCPs and Docker techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
-</ul>
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<!--Languages and Tools Section-->
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+      <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+      <img alt="Skills Animation" src="./Skills_Animation_White.gif">
+    </picture>
+  </div>
+  <div style="flex: 1;">
+    <h3 align="left">Current Learning</h3>
+    <ul align="left">
+      <li>Deepening my knowledge in Machine Learning and AI.</li>
+      <li>Exploring MCPs and Docker techniques.</li>
+      <li>Improving my skills in cloud computing with AWS and Azure.</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
@@ -196,4 +184,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+
 
