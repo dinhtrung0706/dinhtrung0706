@@ -168,11 +168,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Eliot&quote=Superstars%20think%20like%20superstars%20long%20before%20the%20fans%20or%20the%20press%20anoint%20them.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Elbert%20Hubbard&quote=One%20machine%20can%20do%20the%20work%20of%20fifty%20ordinary%20men.%20No%20machine%20can%20do%20the%20work%20of%20one%20extraordinary%20man.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
