@@ -208,11 +208,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Oprah%20Winfrey&quote=The%20more%20you%20praise%20and%20celebrate%20your%20life%2C%20the%20more%20there%20is%20in%20life%20to%20celebrate.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Collier&quote=All%20power%20is%20from%20within%20and%20therefore%20under%20our%20control.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
