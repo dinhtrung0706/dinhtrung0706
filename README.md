@@ -221,11 +221,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Leonardo%20da%20Vinci&quote=The%20greatest%20deception%20men%20suffer%20is%20from%20their%20own%20opinions.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Never%20feel%20shame%20for%20trying%20and%20failing%2C%20for%20he%20who%20has%20never%20failed%20is%20he%20who%20has%20never%20tried.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
