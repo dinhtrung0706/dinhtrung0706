@@ -270,11 +270,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Swindoll&quote=When%20you%20have%20vision%20it%20affects%20your%20attitude.%20Your%20attitude%20is%20optimistic%20rather%20than%20pessimistic.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=No%20duty%20is%20more%20urgent%20than%20that%20of%20returning%20thanks.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
