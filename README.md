@@ -276,11 +276,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elvis%20Presley&quote=If%20you%20let%20your%20head%20get%20too%20big%2C%20it'll%20break%20your%20neck.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Swindoll&quote=We%20have%20a%20choice%20everyday%20regarding%20the%20attitude%20we%20will%20embrace%20for%20that%20day.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
