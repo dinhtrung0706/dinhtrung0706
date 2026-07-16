@@ -283,11 +283,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Pema%20Chodron&quote=The%20most%20difficult%20times%20for%20many%20of%20us%20are%20the%20ones%20we%20give%20ourselves.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=To%20the%20mind%20that%20is%20still%2C%20the%20whole%20universe%20surrenders.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
