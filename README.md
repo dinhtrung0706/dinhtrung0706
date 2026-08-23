@@ -320,11 +320,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Richard%20Bach&quote=You're%20never%20given%20a%20dream%20without%20also%20being%20given%20the%20power%20to%20make%20it%20true.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20Hawking&quote=However%20difficult%20life%20may%20seem%2C%20there%20is%20always%20something%20you%20can%20do%20and%20succeed%20at.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
