@@ -321,11 +321,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Stephen%20Hawking&quote=However%20difficult%20life%20may%20seem%2C%20there%20is%20always%20something%20you%20can%20do%20and%20succeed%20at.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Peter%20Drucker&quote=Intelligence%2C%20imagination%2C%20and%20knowledge%20are%20essential%20resources%2C%20but%20only%20effectiveness%20converts%20them%20into%20results.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
