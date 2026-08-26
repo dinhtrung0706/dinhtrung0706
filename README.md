@@ -323,11 +323,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eleanor%20Roosevelt&quote=Learn%20from%20the%20mistakes%20of%20others.%20You%20can't%20live%20long%20enough%20to%20make%20them%20all%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Be%20the%20reason%20someone%20smiles.%20Be%20the%20reason%20someone%20feels%20loved%20and%20believes%20in%20the%20goodness%20in%20people.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
