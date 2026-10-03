@@ -361,11 +361,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Woody%20Allen&quote=The%20heart%20wants%20what%20it%20wants.%20There's%20no%20logic.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Peter%20Drucker&quote=Intelligence%2C%20imagination%2C%20and%20knowledge%20are%20essential%20resources%2C%20but%20only%20effectiveness%20converts%20them%20into%20results.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
